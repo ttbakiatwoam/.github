@@ -1,6 +1,8 @@
 <div align="center">
+
 # Building Useful Technology
-### I build useful technology, automate tedious work, and occasionally convince old hardware to become infrastructure.
+
+### I build useful systems, automate tedious work, and occasionally convince old hardware to become infrastructure.
 
 </div>
 
