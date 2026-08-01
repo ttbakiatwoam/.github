@@ -1,0 +1,9 @@
+# Ignore everything in ~/Projects
+*
+
+# Track this repository's own files
+!.gitignore
+
+# Track the GitHub organization profile
+!profile/
+!profile/README.md
