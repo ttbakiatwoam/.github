@@ -7,3 +7,10 @@
 # Track the GitHub organization profile
 !profile/
 !profile/README.md
+
+# macOS files
+.DS_Store
+**/.DS_Store
+*.DS_Store
+.AppleDouble
+.LSOverride
