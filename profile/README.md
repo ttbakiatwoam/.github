@@ -127,7 +127,7 @@ Architecture diagrams are useful. So is accepting that production has opinions.
 
 ## On Change
 
-I’m not trying to change the world. I’m not even trying to change Cascade. In a lot of ways, I don’t want Cascade to change.
+I’m not trying to change the world. I’m not even trying to change the city I live in. In a lot of ways, I don’t want it to change.
 
 What I will fight against is anyone saying we can’t change or shouldn’t change.
 
